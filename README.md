@@ -1,23 +1,28 @@
-<!-- TOP -->
+<!-- HEADING -->
+<h2 align="center">
+   <img src="https://raw.githubusercontent.com/celsotavaresdev/celsotavaresdev/main/images/hi.gif" width="26px">
+   Hi there, I'm Celso Tavares!
+</h2>
+
+<!-- DESCRIPTION -->
 <p align="center">
-   <span style="font-size: 24px;">
-      <img src="https://raw.githubusercontent.com/celsotavaresdev/celsotavaresdev/main/images/hi.gif" width="26px">Hi there, I'm Celso Tavares!
-   </span>
-   </br>
    <span>
       A <b>tech enthusiast</b> who loves to learn and write codes. Thank you for visiting!
    </span>
 </p>
 
 <br/>
+<br/>
 
 <!-- ANIMATION -->
 <p align="center">
    <img width="300" src="https://raw.githubusercontent.com/celsotavaresdev/celsotavaresdev/main/images/escalacity.gif">
    <br/>
-   <span style="font-size: 10px;">
-      <a href="https://giphy.com/gifs/city-marketing-public-gh0RRgkTXedvF0pDc0">via GIPHY</a>
-   </span>
+   <sub>
+      <sup>
+         <a href="https://giphy.com/gifs/city-marketing-public-gh0RRgkTXedvF0pDc0">via GIPHY</a>
+      </sup>
+   </sub>
 </p>
 
 <br/>
