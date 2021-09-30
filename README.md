@@ -1,22 +1,24 @@
-<!-- TITLE -->
-<h2 align="center">
-   <img src="https://raw.githubusercontent.com/celsotavaresdev/celsotavaresdev/main/images/hi.gif" width="26px">
-   Hi there, I'm Celso Tavares!</h1>
-</h2>
-
-<!-- DESCRIPTION -->
+<!-- TOP -->
 <p align="center">
-  A <b>tech enthusiast</b> who loves to learn and write codes. Thank you for visiting!</p>
+   <span style="font-size: 24px;">
+      <img src="https://raw.githubusercontent.com/celsotavaresdev/celsotavaresdev/main/images/hi.gif" width="26px">Hi there, I'm Celso Tavares!
+   </span>
+   </br>
+   <span>
+      A <b>tech enthusiast</b> who loves to learn and write codes. Thank you for visiting!
+   </span>
 </p>
 
 <br/>
 
 <!-- ANIMATION -->
-<h6 align="center">
-   <img width="270" src="https://raw.githubusercontent.com/celsotavaresdev/celsotavaresdev/main/images/escalacity.gif">
+<p align="center">
+   <img width="300" src="https://raw.githubusercontent.com/celsotavaresdev/celsotavaresdev/main/images/escalacity.gif">
    <br/>
-   <a href="https://giphy.com/gifs/city-marketing-public-gh0RRgkTXedvF0pDc0">via GIPHY</a>
-</h6>
+   <span style="font-size: 10px;">
+      <a href="https://giphy.com/gifs/city-marketing-public-gh0RRgkTXedvF0pDc0">via GIPHY</a>
+   </span>
+</p>
 
 <br/>
 
@@ -46,7 +48,7 @@
 ### 🤡 Some Fun
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder=true&theme=gotham)
 
-### 📈 Stats
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=celsotavaresdev&show_icons=true&hide_border=true&theme=gotham)
+### 📊 Stats
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=celsotavaresdev&hide_border=true&hide_title=true&show_icons&include_all_commits=true&theme=gotham)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=celsotavaresdev&hide_border=true&theme=gotham)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=celsotavaresdev&hide_border=true&hide_title=true&layout=compact&card_width=445&theme=gotham)
