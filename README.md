@@ -6,9 +6,7 @@
 
 <!-- DESCRIPTION -->
 <p align="center">
-   <span>
-      A <b>tech enthusiast</b> who loves to learn and write codes. Thank you for visiting!
-   </span>
+   A <b>tech enthusiast</b> who loves to learn and write codes. Thank you for visiting!
 </p>
 
 <br/>
