@@ -53,10 +53,15 @@ Thanks for your visit.
 * Dopamine Player: https://github.com/digimezzo/dopamine-windows
 
 ## 📈 GitHub stats
-![github-stats_light](https://github-readme-stats.vercel.app/api?username=celsotavaresdev&hide_border=true&hide_title=true&card_width=420&bg_color=00000000&theme=default&show_icons=true&rank_icon=github&include_all_commits=true&hide=contribs#gh-light-mode-only)
-![github-stats_dark](https://github-readme-stats.vercel.app/api?username=celsotavaresdev&hide_border=true&hide_title=true&card_width=420&bg_color=00000000&theme=dark&show_icons=true&rank_icon=github&include_all_commits=true&hide=contribs#gh-dark-mode-only)
-![github-top-langs_light](https://github-readme-stats.vercel.app/api/top-langs/?username=celsotavaresdev&hide_border=true&hide_title=true&card_width=420&bg_color=00000000&theme=default&layout=compact#gh-light-mode-only)
-![github-top-langs_dark](https://github-readme-stats.vercel.app/api/top-langs/?username=celsotavaresdev&hide_border=true&hide_title=true&card_width=420&bg_color=00000000&theme=dark&layout=compact#gh-dark-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=celsotavaresdev&hide_border=true&hide_title=true&card_width=420&bg_color=00000000&theme=dark&show_icons=true&rank_icon=github&include_all_commits=true&hide=contribs">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=celsotavaresdev&hide_border=true&hide_title=true&card_width=420&bg_color=00000000&theme=default&show_icons=true&rank_icon=github&include_all_commits=true&hide=contribs">
+  <img src="https://github-readme-stats.vercel.app/api?username=celsotavaresdev&hide_border=true&hide_title=true&card_width=420&bg_color=00000000&theme=default&show_icons=true&rank_icon=github&include_all_commits=true&hide=contribs">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=celsotavaresdev&hide_border=true&hide_title=true&card_width=420&bg_color=00000000&theme=dark&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celsotavaresdev&hide_border=true&hide_title=true&card_width=420&bg_color=00000000&theme=default&layout=compact">
+</picture>
 
 ## 🤝 Support my work
 Contributions, issues, and feature requests are welcome!
