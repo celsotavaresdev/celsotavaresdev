@@ -53,8 +53,8 @@ Thanks for your visit.
 
 ### 📈 GitHub stats
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=celsotavaresdev&hide_border=true&hide_title=true&card_width=370&bg_color=00000000&theme=dark&show_icons=true&rank_icon=github&hide=contribs&include_all_commits=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=celsotavaresdev&hide_border=true&hide_title=true&card_width=370&bg_color=00000000&theme=default&show_icons=true&rank_icon=github&hide=contribs&include_all_commits=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=celsotavaresdev&hide_border=true&hide_title=true&card_width=370&bg_color=00000000&theme=dark&show_icons=true&rank_icon=github&hide=contribs&include_all_commits=true&count_private=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=celsotavaresdev&hide_border=true&hide_title=true&card_width=370&bg_color=00000000&theme=default&show_icons=true&rank_icon=github&hide=contribs&include_all_commits=true&count_private=true">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=celsotavaresdev&hide_border=true&hide_title=true&card_width=370&bg_color=00000000&theme=dark&layout=compact">
