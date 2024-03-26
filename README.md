@@ -46,11 +46,11 @@ Thanks for your visit.
 <br><br>
 
 ### ⚙️ Community contributions
-* GNOME/libadwaita: https://gitlab.gnome.org/GNOME/libadwaita
-* Extension Manager: https://github.com/mjakeman/extension-manager
-* Panel corners: https://github.com/aunetx/panel-corners
-* Transparent Top Bar: https://github.com/zhanghai/gnome-shell-extension-transparent-top-bar
-* Dopamine Player: https://github.com/digimezzo/dopamine-windows
+* GNOME/libadwaita: https://gitlab.gnome.org/GNOME/libadwaita ([#561](https://gitlab.gnome.org/GNOME/libadwaita/-/merge_requests/561))
+* Extension Manager: https://github.com/mjakeman/extension-manager ([#210](https://github.com/mjakeman/extension-manager/pull/210), [#212](https://github.com/mjakeman/extension-manager/pull/212))
+* Panel corners: https://github.com/aunetx/panel-corners ([#21](https://github.com/aunetx/panel-corners/issues/21), [#22](https://github.com/aunetx/panel-corners/pull/22))
+* Transparent Top Bar: https://github.com/zhanghai/gnome-shell-extension-transparent-top-bar ([#20](https://github.com/zhanghai/gnome-shell-extension-transparent-top-bar/pull/20))
+* Dopamine Player: https://github.com/digimezzo/dopamine-windows ([#1314](https://github.com/digimezzo/dopamine-windows/pull/1314))
 <br><br>
 
 ### 📈 GitHub stats
